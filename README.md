@@ -1,38 +1,85 @@
-# 👋 Hi, I'm Hamza Zaheer!
+# 👋 Hi, I'm Muhammad Hamza
 
-I'm a passionate full-stack developer with 6+ years of experience, specializing in blockchain technology and cryptocurrency projects. My journey in tech has led me to create and deploy cutting-edge platforms, from crypto exchanges to eCommerce solutions with integrated cryptocurrency payments.
+### Senior Full-Stack Developer | SaaS, AI & Mobile Apps
 
-## 🚀 What I Do
+I build scalable software products that help startups and businesses transform ideas into reliable digital solutions.
 
-- **Front-End Development**: Crafting beautiful, responsive user interfaces with [React.js](https://reactjs.org/), [Angular](https://angular.io/), and [Electron.js](https://www.electronjs.org/).
-- **Mobile Apps**: Building cross-platform mobile apps with [React Native](https://reactnative.dev/).
-- **Back-End Development**: Developing scalable and high-performance applications using [Node.js](https://nodejs.org/), [PHP](https://www.php.net/), [Laravel](https://laravel.com/), and [CodeIgniter](https://codeigniter.com/).
-- **Database Management**: Optimizing queries and managing large datasets with [MySQL](https://www.mysql.com/) and [MongoDB](https://www.mongodb.com/).
-- **Blockchain & Crypto**: Creating secure crypto wallets with [Electron.js](https://www.electronjs.org/), setting up Bitcoin and Bitcore full nodes, and configuring [BTCPay Server](https://btcpayserver.org/).
+With **7+ years of professional experience**, I specialize in developing **SaaS platforms**, **AI-powered applications**, **enterprise software**, **modern web applications**, **cross-platform mobile apps**, and **desktop applications**. My focus is on writing clean, maintainable code while delivering products that are secure, scalable, and built for long-term growth.
 
-## 🛠️ Skills
+---
 
-- **Languages & Frameworks**: HTML, CSS, JavaScript, PHP, Node.js, React.js, Angular, React Native, Laravel, CodeIgniter
-- **Databases**: MySQL, MongoDB
-- **Blockchain**: Bitcoin Full Nodes, Bitcore Full Nodes, BTCPay Server
-- **Tools**: Git, RESTful APIs, Database Optimization, Performance Tuning, UI/UX Design
+## 🚀 What I Build
 
-## 🌟 Highlights
+* 💼 SaaS Platforms & Business Applications
+* 🤖 AI Integrations & Business Automation
+* 🌐 Modern Web Applications
+* 📱 Cross-Platform Mobile Applications
+* 🖥️ Desktop Applications (Electron)
+* 🔗 REST APIs & Third-Party Integrations
+* 💳 Payment Gateway Integrations
+* ⛓️ Blockchain & FinTech Solutions
 
-- Developed and deployed **crypto-based platforms** and **eCommerce solutions** with integrated crypto payments.
-- Built **scalable back-end systems** using Node.js and PHP frameworks (Laravel & CodeIgniter).
-- Created **secure cryptocurrency wallets** and set up robust blockchain infrastructures.
-- Mastered **database management** with optimized queries for handling large datasets.
+---
 
-## 🌐 Let's Connect
+## 💻 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/hamza-zaheer984/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/hamzazaheer)
+### Backend
 
-## 📫 Get in Touch
+Laravel • PHP • NestJS • Node.js • CodeIgniter
 
-Feel free to reach out via email: [developersfaith@gmail.com](mailto:developersfaith@gmail.com)
+### Frontend
 
-## 📝 About Me
+Next.js • React • TypeScript • Tailwind CSS
 
-I bring a deep understanding of technology and a commitment to excellence in every project. Whether it's building a responsive web app, optimizing back-end processes, or deploying a blockchain node, I'm dedicated to delivering top-notch solutions. Let's build something amazing together!
+### Mobile
+
+React Native
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB
+
+### APIs & Integrations
+
+REST APIs • Stripe • Payment Gateways • Authentication • AI APIs
+
+### Tools
+
+Git • Docker • Linux • Nginx
+
+---
+
+## 🌟 Featured Projects
+
+* 🚗 **Garage AI** – Vehicle maintenance and expense tracking application
+* 📋 **Leasify** – Multi-tenant lease management SaaS platform
+* 🐄 **Livestock Management System** – Smart farm management solution
+* 🌐 **BitBySoft Website** – Corporate website built with Next.js
+* 💰 **Wanya** – Secure fintech wallet platform
+* 📈 **The Meteor** – Cryptocurrency exchange platform
+
+---
+
+## 🎯 What You Can Expect
+
+* Clean, maintainable, production-ready code
+* Scalable software architecture
+* Clear communication and regular updates
+* Business-focused solutions, not just code
+* Long-term technical support
+
+---
+
+## 🌐 Connect With Me
+
+* 🌍 **Website:** https://bitbysoft.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/hamza-zaheer984/
+* 🐙 **GitHub:** https://github.com/hamzazaheer
+
+---
+
+## 📫 Contact
+
+**Email:** [hamza@bitbysoft.com](mailto:hamza@bitbysoft.com)
+
+Always open to collaborating on SaaS products, AI applications, mobile apps, enterprise software, and innovative startup ideas.
